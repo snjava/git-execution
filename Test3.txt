@@ -1,1 +1,2 @@
 This is Test3 file with message 1
+This is Test3 file with message 2
