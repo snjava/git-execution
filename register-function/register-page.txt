@@ -1,1 +1,2 @@
 This is the register Page..
+Changes for the defect added
